@@ -1,3 +1,3 @@
 # tetris4fun
-Js tetris game
-Link tetris4fun.github.io
+Javascript tetris game
+[tetris4fun.github.io](tetris4fun.github.io)
