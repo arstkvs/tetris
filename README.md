@@ -1,3 +1,3 @@
 # tetris4fun
 Javascript tetris game
-[tetris4fun.github.io](tetris4fun.github.io)
+[arstkvs.github.io/tetris4fun](arstkvs.github.io/tetris4fun)
