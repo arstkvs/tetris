@@ -54,5 +54,11 @@ const player = {
 
 document.addEventListener('keydown', function(e) {
     console.log(e);
+    if (e.keyCode === 37) {
+        player.pos.x--
+    }
+    else if (e.keyCode === 39) {
+        player.pos.x++
+    }
 });
 update();
